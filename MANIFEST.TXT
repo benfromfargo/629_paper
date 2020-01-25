@@ -1,0 +1,8 @@
+Employment.dta (application/x-stata) 7666 bytes.
+FederalEmployment_1969_2013.dta (application/x-stata) 37490 bytes.
+House.dta (application/x-stata) 8997254 bytes.
+Procurements_1983_2010.dta (application/x-stata) 20313 bytes.
+readme.txt (text/plain; charset=US-ASCII) 1732 bytes.
+ReplicationCode.do (text/x-stata-syntax; charset=US-ASCII) 78923 bytes.
+Senate.dta (application/x-stata) 2129254 bytes.
+SenateStateLevelCommittees.dta (application/x-stata) 222568 bytes.
